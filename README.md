@@ -1,4 +1,4 @@
-it is only simple site pessoal developed with Vue (and Vuetify).
+it is only simple personal website developed with Vue (and Vuetify).
 
 # Local Development
 
